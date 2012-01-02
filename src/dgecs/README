@@ -1,0 +1,19 @@
+#	#	#	#	#	#	#	#	#	#
+#	   Hardware Evolution over Reconfigurable Architectures		#
+#	   								#
+#	   Description Generator for Evolved Circuits Synthesis		#
+#	#	#	#	#	#	#	#	#	#
+
+This directory contains the source code of the DGECS tool for exporting
+circuits evolved with the HERA ga to a generic vhdl description, allowing
+to reuse them in any design.
+This root folder contains at least the following files / directories:
+
+	data -> contains the main python logic
+	dgecs.py -> can be used to launch the gui ($ python dgecs.py) 
+	gui -> contains the pyQt gui code
+	README -> this README
+	vhd -> contains the template vhdl descriptions
+
+To extend the tool for supporting new architectures / devices, simply
+write the suitable data (in python) and template (vhdl) files.
