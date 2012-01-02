@@ -1,0 +1,14 @@
+#	#	#	#	#	#	#	#	#	#
+#	   Hardware Evolution over Reconfigurable Architectures		#
+#	#	#	#	#	#	#	#	#	#
+
+The files in this directory are the sources for the genetic algorithm
+used in the HERA project.
+The code contains conditional compilation directives to support all the
+architectures and FPGA supported by the HERA project. The sources can be
+used within one of the supported Xilinx architectures, available on the
+"Downloads" page of the project site:
+	http://code.google.com/p/hera-prj/downloads/list
+
+To make use of the code, unpack one of the architectures, open it with
+the Xilinx development tools, and create a new software project.

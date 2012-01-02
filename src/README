@@ -1,0 +1,11 @@
+#	#	#	#	#	#	#	#	#	#
+#	   Hardware Evolution over Reconfigurable Architectures		#
+#	#	#	#	#	#	#	#	#	#
+
+This folder contains all the public source code of the HERA project; at
+least the following data should be present in this directory:
+
+	ga-ppc -> the C source code for the HERA genetic algorithm
+	dgecs -> python / vhdl sources for the DGECS tool
+
+Please refer to the READMEs in each subfolder, if present.

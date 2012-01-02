@@ -1,0 +1,12 @@
+#	#	#	#	#	#	#	#	#	#
+#	   Hardware Evolution over Reconfigurable Architectures		#
+#	#	#	#	#	#	#	#	#	#
+
+This repository contains the public code for the HERA project; the root
+directory contains (at least) the following files/directories:
+
+	README -> this readme
+	src -> contains all the public source code
+	data -> contains additional data, such as experimental results
+
+Please refer to the READMEs in each subfolder, if present.
