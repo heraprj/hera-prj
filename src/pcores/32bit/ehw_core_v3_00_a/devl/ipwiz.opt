@@ -1,0 +1,10 @@
+-batch 
+-create ehw_core 
+-ver 3.00.a 
+-dir "/home/micro/hera32bit" 
+-lang vhdl 
+-bus plbv46 s 
+-reg 4 
+-xps 
+-ise 
+-driver 

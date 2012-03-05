@@ -1,0 +1,12 @@
+run
+-opt_level 2
+-opt_mode speed
+-ifmt mixed
+-ifn "/home/micro/hera32bit/pcores/ehw_core_v3_00_a/devl/synthesis/ehw_core_xst.prj"
+-top ehw_core
+-p virtex5
+-ofn "/home/micro/hera32bit/pcores/ehw_core_v3_00_a/devl/synthesis/ehw_core_xst.ngc"
+-iobuf NO
+-rtlview YES
+-hierarchy_separator /
+-work_lib ehw_core_v3_00_a

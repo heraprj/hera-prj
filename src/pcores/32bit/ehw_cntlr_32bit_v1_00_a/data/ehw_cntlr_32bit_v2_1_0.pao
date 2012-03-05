@@ -1,0 +1,22 @@
+##############################################################################
+## Filename:          /home/micro/hera8bit_150MHz/pcores/ehw_cntlr_32bit_v1_00_a/data/ehw_cntlr_32bit_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Fri Apr  8 10:35:26 2011 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a proc_common_pkg vhdl
+lib proc_common_v3_00_a ipif_pkg vhdl
+lib proc_common_v3_00_a or_muxcy vhdl
+lib proc_common_v3_00_a or_gate128 vhdl
+lib proc_common_v3_00_a family_support vhdl
+lib proc_common_v3_00_a pselect_f vhdl
+lib proc_common_v3_00_a counter_f vhdl
+lib plbv46_slave_single_v1_01_a plb_address_decoder vhdl
+lib plbv46_slave_single_v1_01_a plb_slave_attachment vhdl
+lib plbv46_slave_single_v1_01_a plbv46_slave_single vhdl
+lib ehw_cntlr_32bit_v1_00_a adder vhdl
+lib ehw_cntlr_32bit_v1_00_a adder1 vhdl
+lib ehw_cntlr_32bit_v1_00_a calculator vhdl
+lib ehw_cntlr_32bit_v1_00_a ehw_core_logic vhdl
+lib ehw_cntlr_32bit_v1_00_a user_logic vhdl
+lib ehw_cntlr_32bit_v1_00_a ehw_cntlr_32bit vhdl
