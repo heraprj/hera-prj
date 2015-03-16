@@ -1,0 +1,1 @@
+The HERA project is developed at Politecnico di Milano (Italy) and it is a research project focused on coupling evolutionary algorithms and reconfigurable hardware.
